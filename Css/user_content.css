@@ -1,0 +1,12 @@
+body{
+    background-image: url(../image/user.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 3vh;
+    border-radius: 10px;
+    
+}
+.row{
+    margin-right: 70px;
+}

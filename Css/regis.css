@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background-image: url(../image/loginpage.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 3vh;
+    border-radius: 10px;
+  
+}
+
+h1{
+    color: rgba();
+    text-shadow: 1px 1px 10px white;
+ 
+
+}
+small{
+    font-size: 19px;
+    color:black;
+}
+
+.group{
+    box-shadow: 0px 0px 0px 3px #848484;
+}
+
+
